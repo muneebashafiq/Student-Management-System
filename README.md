@@ -1,6 +1,4 @@
 
-Description
-
 The Student Management System (SMS) is a comprehensive database project designed to streamline administrative tasks and enhance organizational efficiency within educational institutions. Built on SQL Server, this system offers a robust platform for managing student information, course registrations, faculty interactions, and administrative processes.
 
 Key Features:
